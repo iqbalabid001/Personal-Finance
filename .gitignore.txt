@@ -1,0 +1,20 @@
+
+---
+## 📄 **.gitignore**
+```gitignore
+# Ignore sensitive configs
+settings.txt
+
+# Ignore databases
+*.sqlite
+
+# Ignore generated reports
+*.pdf
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/

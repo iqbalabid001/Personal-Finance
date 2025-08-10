@@ -1,0 +1,7 @@
+requests
+requests-oauthlib
+splitwise
+matplotlib
+pandas
+numpy
+fpdf
